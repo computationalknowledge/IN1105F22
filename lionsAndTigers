@@ -1,0 +1,17 @@
+
+public class Pineapple {
+
+	public static void main(String[] args) {
+		System.out.println("HELLO");
+
+	}
+
+}
+
+class Tiger{
+	
+}
+
+class Lion{
+		
+}
